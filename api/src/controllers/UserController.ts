@@ -12,10 +12,10 @@ class UserController {
       email,
     });
 
-    if (userAlreadyExists) { 
-        return response.status(400).json({
-            error: "User already exists!",
-        })
+    if (userAlreadyExists) {
+      return response.status(400).json({
+        error: "User already exists!",
+      });
     }
 
     const user = usersRepository.create({
@@ -29,5 +29,4 @@ class UserController {
   }
 }
 
-export { UserController };
-
+export default new UserController();
