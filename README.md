@@ -6,7 +6,7 @@
 ### 1. Backend directory
     - yarn install;
     - yarn typeorm migration:run;
-    - yarn dev
+    - yarn start
 ### 2. Frontend directory
     - yarn install;
     - yarn start;
