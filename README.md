@@ -3,11 +3,11 @@
 ##### To run this application you need to execute the following commands in backend and frontend directories: 
       
       
-### Backend directory
+### 1. Backend directory
     - yarn install;
     - yarn typeorm migration:run;
     - yarn dev
-### Frontend directory
+### 2. Frontend directory
     - yarn install;
     - yarn start;
 
