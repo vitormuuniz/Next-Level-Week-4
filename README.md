@@ -5,4 +5,4 @@
     - yarn typeorm migration:run;
     - yarn start;
 
-##### The application will listening on localhost:3333/.
+##### The application will listen at localhost:3333/.
