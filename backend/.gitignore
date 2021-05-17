@@ -1,5 +1,5 @@
 /node_modules
 /src/database/database.sqlite
-/src/database/datab.test.sqlite
+/src/database/database.test.sqlite
 package-lock.json
 yarn.lock
