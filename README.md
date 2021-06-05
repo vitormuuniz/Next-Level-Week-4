@@ -1,6 +1,8 @@
 
 # Next Level Week 4 🚀
 
+The goal was developing an API that send e-mails to get the user rating about some application. 
+
 ##### To run this api you need to execute the following commands in backend directory: 
     - yarn install;
     - yarn typeorm migration:run;
