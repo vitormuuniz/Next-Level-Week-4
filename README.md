@@ -12,5 +12,5 @@ The goal was developing an API that send e-mails to get the user rating about so
 
 ##### Insomnia file for requests is below:
 
-[Insomnia_NLW4_Node.zip](https://github.com/vitormuuniz/nlw4-nps/files/6515723/Insomnia_NLW4_Node.zip)
+[Insomnia.zip](https://github.com/vitormuuniz/nlw4-nps/files/6515723/Insomnia_NLW4_Node.zip)
 
